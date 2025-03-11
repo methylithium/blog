@@ -15,4 +15,4 @@ hideComments = false
 
 I freakin love Reigen Arataka
 
-![Reigen!](/images/reigen.png)
+![Reigen!](images/reigen.png)

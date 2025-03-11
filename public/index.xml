@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>methylithium</title>
-    <link>https://methylithium.github.io/blog/</link>
+    <link>https://methylithium.github.io/</link>
     <description>Recent content on methylithium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Mar 2025 14:25:26 +0500</lastBuildDate>
-    <atom:link href="https://methylithium.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://methylithium.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drafts</title>
-      <link>https://methylithium.github.io/blog/posts/drafts/</link>
+      <link>https://methylithium.github.io/posts/drafts/</link>
       <pubDate>Tue, 11 Mar 2025 14:25:26 +0500</pubDate>
-      <guid>https://methylithium.github.io/blog/posts/drafts/</guid>
+      <guid>https://methylithium.github.io/posts/drafts/</guid>
       <description>&lt;p&gt;No Commentos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Am Tired</title>
-      <link>https://methylithium.github.io/blog/posts/i-am-tired/</link>
+      <link>https://methylithium.github.io/posts/i-am-tired/</link>
       <pubDate>Tue, 11 Mar 2025 14:23:09 +0500</pubDate>
-      <guid>https://methylithium.github.io/blog/posts/i-am-tired/</guid>
+      <guid>https://methylithium.github.io/posts/i-am-tired/</guid>
       <description>&lt;p&gt;I am freaking tired of handling Hugo/GitHub Actions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing Images</title>
-      <link>https://methylithium.github.io/blog/posts/testing-images/</link>
+      <link>https://methylithium.github.io/posts/testing-images/</link>
       <pubDate>Tue, 11 Mar 2025 14:18:49 +0500</pubDate>
-      <guid>https://methylithium.github.io/blog/posts/testing-images/</guid>
-      <description>&lt;p&gt;I freakin love Reigen Arataka&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://methylithium.github.io/blog/images/reigen.png&#34; alt=&#34;Reigen!&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://methylithium.github.io/posts/testing-images/</guid>
+      <description>&lt;p&gt;I freakin love Reigen Arataka&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/reigen.png&#34; alt=&#34;Reigen!&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Playing Poker</title>
-      <link>https://methylithium.github.io/blog/posts/playing-poker/</link>
+      <link>https://methylithium.github.io/posts/playing-poker/</link>
       <pubDate>Tue, 11 Mar 2025 14:16:20 +0500</pubDate>
-      <guid>https://methylithium.github.io/blog/posts/playing-poker/</guid>
+      <guid>https://methylithium.github.io/posts/playing-poker/</guid>
       <description>&lt;p&gt;Playing poker is funny, but only when you are winning or playing with chips. When you start playing with real money it becomes too stressful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My New Post</title>
-      <link>https://methylithium.github.io/blog/posts/my-new-post/</link>
+      <link>https://methylithium.github.io/posts/my-new-post/</link>
       <pubDate>Tue, 11 Mar 2025 13:36:27 +0500</pubDate>
-      <guid>https://methylithium.github.io/blog/posts/my-new-post/</guid>
+      <guid>https://methylithium.github.io/posts/my-new-post/</guid>
       <description>&lt;p&gt;Is this a good habit to write in a diary?&lt;/p&gt;</description>
     </item>
   </channel>
