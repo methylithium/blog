@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on methylithium</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on methylithium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Mar 2025 14:23:09 +0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Mar 2025 14:25:26 +0500</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drafts</title>
+      <link>https://example.org/posts/drafts/</link>
+      <pubDate>Tue, 11 Mar 2025 14:25:26 +0500</pubDate>
+      <guid>https://example.org/posts/drafts/</guid>
+      <description>&lt;p&gt;No Commentos.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Am Tired</title>
-      <link>http://localhost:1313/posts/i-am-tired/</link>
+      <link>https://example.org/posts/i-am-tired/</link>
       <pubDate>Tue, 11 Mar 2025 14:23:09 +0500</pubDate>
-      <guid>http://localhost:1313/posts/i-am-tired/</guid>
+      <guid>https://example.org/posts/i-am-tired/</guid>
       <description>&lt;p&gt;I am freaking tired of handling Hugo/GitHub Actions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing Images</title>
-      <link>http://localhost:1313/posts/testing-images/</link>
+      <link>https://example.org/posts/testing-images/</link>
       <pubDate>Tue, 11 Mar 2025 14:18:49 +0500</pubDate>
-      <guid>http://localhost:1313/posts/testing-images/</guid>
-      <description>&lt;p&gt;I freakin love Reigen Arataka&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/reigen.png&#34; alt=&#34;Reigen!&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://example.org/posts/testing-images/</guid>
+      <description>&lt;p&gt;I freakin love Reigen Arataka&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/reigen.png&#34; alt=&#34;Reigen!&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Playing Poker</title>
-      <link>http://localhost:1313/posts/playing-poker/</link>
+      <link>https://example.org/posts/playing-poker/</link>
       <pubDate>Tue, 11 Mar 2025 14:16:20 +0500</pubDate>
-      <guid>http://localhost:1313/posts/playing-poker/</guid>
+      <guid>https://example.org/posts/playing-poker/</guid>
       <description>&lt;p&gt;Playing poker is funny, but only when you are winning or playing with chips. When you start playing with real money it becomes too stressful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My New Post</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
+      <link>https://example.org/posts/my-new-post/</link>
       <pubDate>Tue, 11 Mar 2025 13:36:27 +0500</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <guid>https://example.org/posts/my-new-post/</guid>
       <description>&lt;p&gt;Is this a good habit to write in a diary?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Starting my blog</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 07 Mar 2025 20:10:27 +0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Today starting my blog and my new pre-sleep routine.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
