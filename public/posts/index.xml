@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on methylithium</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on methylithium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Mar 2025 13:36:27 +0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/posts/my-new-post/</link>
+      <pubDate>Tue, 11 Mar 2025 13:36:27 +0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <description>&lt;p&gt;Is this a good habit to write in a diary?&lt;/p&gt;</description>
+      <content>&lt;p&gt;Is this a good habit to write in a diary?&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Starting my blog</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 07 Mar 2025 20:10:27 +0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Today starting my blog and my new pre-sleep routine.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Today starting my blog and my new pre-sleep routine.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
