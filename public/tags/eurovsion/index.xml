@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>methylithium</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on methylithium</description>
+    <title>Eurovsion on methylithium</title>
+    <link>http://localhost:1313/tags/eurovsion/</link>
+    <description>Recent content in Eurovsion on methylithium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 May 2025 14:16:13 +0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/eurovsion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eurovision</title>
       <link>http://localhost:1313/posts/eurovision/</link>
       <pubDate>Sun, 18 May 2025 14:16:13 +0500</pubDate>
       <guid>http://localhost:1313/posts/eurovision/</guid>
       <description>&lt;p&gt;I am so happy: my fav song this year &lt;strong&gt;Ziferblat - Bird of Pray&lt;/strong&gt; is in top-10 and won their semi!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Playing Poker</title>
-      <link>http://localhost:1313/posts/playing-poker/</link>
-      <pubDate>Tue, 11 Mar 2025 14:16:20 +0500</pubDate>
-      <guid>http://localhost:1313/posts/playing-poker/</guid>
-      <description>&lt;p&gt;Playing poker is funny, but only when you are winning or playing with chips. When you start playing with real money it becomes too stressful.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
