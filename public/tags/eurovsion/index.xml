@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eurovsion on methylithium</title>
-    <link>http://localhost:1313/tags/eurovsion/</link>
+    <link>https://methylithium.github.io/tags/eurovsion/</link>
     <description>Recent content in Eurovsion on methylithium</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 May 2025 14:16:13 +0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/eurovsion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://methylithium.github.io/tags/eurovsion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eurovision</title>
-      <link>http://localhost:1313/posts/eurovision/</link>
+      <link>https://methylithium.github.io/posts/eurovision/</link>
       <pubDate>Sun, 18 May 2025 14:16:13 +0500</pubDate>
-      <guid>http://localhost:1313/posts/eurovision/</guid>
+      <guid>https://methylithium.github.io/posts/eurovision/</guid>
       <description>&lt;p&gt;I am so happy: my fav song this year &lt;strong&gt;Ziferblat - Bird of Pray&lt;/strong&gt; is in top-10 and won their semi!&lt;/p&gt;</description>
     </item>
   </channel>
